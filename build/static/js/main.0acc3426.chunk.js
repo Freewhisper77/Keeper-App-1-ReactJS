@@ -1,0 +1,2 @@
+(this["webpackJsonpkeeper-app-part-1-starting"]=this["webpackJsonpkeeper-app-part-1-starting"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},9:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),p=n(2);var u=function(){return a.a.createElement("footer",null,a.a.createElement("p",null,"Copyright \u24d2 currentYear"))};var c=function(){return a.a.createElement(u,null)};n.n(p).a.render(a.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.0acc3426.chunk.js.map
